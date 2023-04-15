@@ -17,7 +17,7 @@ Full-Stack Developer
 - WebSocket apps
 - **Hobby time**
 - PlatformIO C++ (mainly wemos d1 etc)
-- 3D printing (Prusa mk3s+, Bambu Lab X1C)
+- 3D printing and 3D printers (Prusa MK3S+, Bambu Lab X1C)
 - Sim racing 
 
 ### Socials
