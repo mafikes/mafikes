@@ -15,7 +15,7 @@ Full-Stack Developer
 - NodeJS, VueJS, React, (small experience with React native)
 - Cordova, Electron 
 - WebSocket apps
-- **Hobby time**
+**Hobby time**
 - PlatformIO C++ (mainly wemos d1 etc)
 - 3D printing and 3D printers (Prusa MK3S+, Bambu Lab X1C)
 - Sim racing 
