@@ -11,15 +11,15 @@ Full-Stack Developer
 ### Skills 
 - Docker 
 - PHP (Laravel, Nette Framework)
-- MySQL, MariaDB, Postgres, Redis
-- NodeJS, VueJS 3, Inertia.js, React, (experience with React Native)
+- MySQL, Postgres, Redis
+- NodeJS, VueJS, Inertia.js, React
 - Cordova, Ionic, Electron.js
-- WebSocket Apps as socket.io, websocket, webRTC
+- React Native, Realm db
 
 **Hobby time**
 - PlatformIO C++ (Wemos D1, ESP32)
 - 3D printing and 3D printers (Prusa MK3S+, Bambu Lab X1C)
-- Sim racing (SFX-100 3DOF, Simagic)
+- Sim racing (DIY build SFX-100 3DOF)
 
 ### Socials
                   
