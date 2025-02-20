@@ -3,12 +3,12 @@
 *   ✉️   You can contact me at [info@mafikes.cz](mailto:info@mafikes.cz)
 
 ### Skills 
-- Docker 
-- PHP (Laravel, Nette Framework)
+- Node.js, Typescript, React, Electron
+- PHP (Laravel) with intertia.js
 - Postgres, MariaDB, Redis
-- Typescript, NodeJS, VueJS, Inertia.js, React
 - Expo, React Native, RealmDB
-
+- Docker
+  
 **Hobby time**
 - PlatformIO C++ (Wemos D1, ESP32)
 - 3D printing and 3D printers on Bambu Lab X1C
