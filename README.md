@@ -1,18 +1,18 @@
 *   🌍  Prague, Czech Republic
 *   🖥️  See my portfolio at [www.mafikes.cz](http://mafikes.cz)
-*   ✉️   You can contact me at [info@mafikes.cz](mailto:info@mafikes.cz)
+*   ✉️  You can contact me at [info@mafikes.cz](mailto:info@mafikes.cz)
 
 ### Skills 
 - Node.js, Typescript, React, Electron
-- PHP (Laravel) with intertia.js
+- PHP (Laravel) + Intertia.js
 - Postgres, MariaDB, Redis
-- Expo, React Native, RealmDB
+- Expo, React Native
 - Docker
   
-**Hobby time**
+**Hobby Time**
 - PlatformIO C++ (Wemos D1, ESP32)
-- 3D printing and 3D printers on Bambu Lab X1C
-- Sim racing (DIY build SFX-100 3DOF, Simagic)
+- 3D printing and Fusion360 - Bambu Lab X1C
+- Petrolhead: Real cars and Sim Racing (DIY build SFX-100 3DOF, Simagic)
 
 ### Socials
                   
