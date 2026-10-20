@@ -1,19 +1,21 @@
-*   🌍  Prague, Czech Republic
-*   🖥️  See my portfolio at [www.mafikes.cz](http://mafikes.cz)
-*   ✉️  You can contact me at [info@mafikes.cz](mailto:info@mafikes.cz)
+# Hi, I'm Martin 👋
 
-### Skills 
-- Node.js, Typescript, React, Electron
-- PHP (Laravel) + Intertia.js
-- Postgres, MariaDB, Redis
-- Expo, React Native
-- Docker
-  
-**Hobby Time**
-- PlatformIO C++ (Wemos D1, ESP32)
-- 3D printing and Fusion360 - Bambu Lab X1C
-- Petrolhead: Real cars and Sim Racing (DIY build SFX-100 3DOF, Simagic)
+Freelance full-stack developer from the Prague area 🇨🇿 — I build web apps, e-shops,
+mobile apps and AI-powered tools & agents, and help teams maintain and grow existing products.
 
-### Socials
-                  
-<a href="https://www.linkedin.com/in//martin-antoš-9a16a646/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mafikes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+💼 **Open for projects & long-term collaboration** → [mafikes.cz](https://www.mafikes.cz) · [info@mafikes.cz](mailto:info@mafikes.cz)
+
+## 🛠️ Stack
+
+- **Frontend:** TypeScript, React, Next.js
+- **Backend:** Node.js, PHP / Laravel (+ Inertia.js), Bagisto
+- **Mobile & Desktop:** React Native, Expo, Electron
+- **Data:** PostgreSQL, MariaDB, Redis
+- **Infra:** Docker, Coolify (self-hosted)
+- **AI:** LLM integrations, AI agents & automation
+
+## 🔧 Off the clock
+
+- ⚡ Tinkering with ESP32 / Wemos D1 in PlatformIO (C++)
+- 🖨️ 3D printing & Fusion 360 — Bambu Lab X1C
+- 🏁 Petrolhead — real cars and sim racing on a DIY SFX-100 3DOF rig (Simagic)
